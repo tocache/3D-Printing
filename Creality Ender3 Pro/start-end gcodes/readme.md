@@ -1,1 +1,1 @@
-These g-code are to be put on the slicer software (printer configuration)
+These g-codes are to be put on the slicer software (printer configuration)
