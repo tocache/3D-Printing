@@ -11,3 +11,13 @@ Removing that extra swap:
 sudo swapoff -v /swapfile
 sudo rm /swapfile
 ```
+
+How to install Printer Stats plugin v2.0.2:
+1.Install the numpy version that mxm11 recommends I first had to update PIP
+```
+/home/pi/oprint/bin/python2 -m pip install --upgrade pip
+```
+2.Update numpy with
+```
+/home/pi/oprint/bin/python2 -m pip install numpy==1.16.5
+```
