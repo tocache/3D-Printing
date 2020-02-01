@@ -1,4 +1,4 @@
-Adding extra swap file if you have trouble installing plug ins:
+Adding extra swap file if you have trouble installing plugins:
 ```
 sudo fallocate -l 1G /swapfile
 sudo chmod 600 /swapfile
