@@ -21,3 +21,14 @@ How to install Printer Stats plugin v2.0.2:<br>
 ```
 /home/pi/oprint/bin/python2 -m pip install numpy==1.16.5
 ```
+
+I2C bus status (if enabled or not)
+```
+ls /dev/*i2c*
+```
+
+Get CPU temperature:
+```
+cd /opt/vc/bin
+LD_LIBRARY_PATH=/opt/vc/lib ./vcgencmd measure_temp
+```
