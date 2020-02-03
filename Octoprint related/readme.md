@@ -22,6 +22,14 @@ How to install Printer Stats plugin v2.0.2:<br>
 /home/pi/oprint/bin/python2 -m pip install numpy==1.16.5
 ```
 
+1a.Try this 
+```
+sudo apt-get install byobu
+byobu-enable
+~/oprint/bin/pip --no-cache-dir install numpy==1.16
+~/oprint/bin/pip --no-cache-dir install pandas==0.24.2
+```
+
 I2C bus status (if enabled or not)
 ```
 ls /dev/*i2c*
