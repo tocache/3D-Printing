@@ -13,6 +13,7 @@ sudo rm /swapfile
 ```
 
 How to install Printer Stats plugin v2.0.2:<br>
+https://github.com/amsbr/OctoPrint-Stats/issues/32 <br>
 1.Install the numpy version that mxm11 recommends I first had to update PIP:
 ```
 /home/pi/oprint/bin/python2 -m pip install --upgrade pip
