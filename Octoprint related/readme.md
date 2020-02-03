@@ -40,3 +40,12 @@ Get CPU temperature:
 cd /opt/vc/bin
 LD_LIBRARY_PATH=/opt/vc/lib ./vcgencmd measure_temp
 ```
+
+Bed Visualizer code for bl touch on Ender 5 Plus:
+```
+G28	
+M155 S30	
+@BEDLEVELVISUALIZER	
+G29 T	
+M155 S3
+```
