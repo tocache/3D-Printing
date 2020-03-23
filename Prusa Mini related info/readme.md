@@ -11,4 +11,4 @@ Printed some cable relief for the ones that goes to the hotend (https://www.thin
 <b>03/03/2020:</b> Michael from Teaching Tech showed this clogging problem on his new arrived Prusa Mini (https://www.youtube.com/watch?v=D0QoeqRFd0U&fbclid=IwAR2XoVGGpD4-eI6OcnACPBZOlZoC7dF4nP-0auU9gn-wuQkn32bGfOJUF64). The main issue is that some Prusa Mini printers were wrongly assembled at the hotend part, leaving a small gap between the ptfe tube and the heatbreak:<br>
 <img src="Capture.PNG"><br>
 <b>22/03/2020:</b> Found a cover for the display unit of the Prusa Mini (https://www.thingiverse.com/thing:4230690), great design! Thanks Sven de Ruiter!<br>
-<img src=""><br>
+<img src="90211306_3003746519646662_8190410712581931008_o.jpg"><br>
