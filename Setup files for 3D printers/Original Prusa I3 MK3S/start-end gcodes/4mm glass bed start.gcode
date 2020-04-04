@@ -1,4 +1,4 @@
-;star gcode script for Prusa I3 MK3S BMG MMU2S single filament with 4mm glass bed
+;Start gcode script for Prusa I3 MK3S BMG MMU2S single filament with 4mm glass bed
 
 M115 U3.7.1 ; tell printer latest fw version
 G90 ; use absolute coordinates
